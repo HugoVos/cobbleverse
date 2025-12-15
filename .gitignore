@@ -1,0 +1,45 @@
+# ============================================
+# IGNORAR TODO EL CONTENIDO DE MODS y CLIENTE
+# ============================================
+
+# --- CARPETA DE MODS (NO subir) ---
+mods/
+# --- CARPETA DE CONFIG (Opcional: NO subir normalmente) ---
+config/
+# --- RECURSOS y SHADERS del CLIENTE (NO subir) ---
+resourcepacks/
+shaderpacks/
+# --- Otros elementos del modpack (NO subir) ---
+schematics/
+datapacks/
+scripts/
+
+# ============================================
+# ARCHIVOS GENERADOS POR EL SERVIDOR / TEMPORALES
+# ============================================
+logs/
+crash-reports/
+debug/
+*.log
+libraries/
+versions/
+# Cache del servidor
+cache/
+*.cache
+
+# ============================================
+# ARCHIVOS DE SISTEMA y EDITORES
+# ============================================
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.iml
+
+# ============================================
+# REGLA CLAVE: Subir el archivo ejecutable del servidor
+# ============================================
+# Esto evita que se suban .jar sueltos, pero permite el principal
+/*.jar
+!fabric-server-launch.jar
