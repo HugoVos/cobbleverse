@@ -15,19 +15,6 @@ datapacks/
 scripts/
 
 # ============================================
-# ARCHIVOS GENERADOS POR EL SERVIDOR / TEMPORALES
-# ============================================
-logs/
-crash-reports/
-debug/
-*.log
-libraries/
-versions/
-# Cache del servidor
-cache/
-*.cache
-
-# ============================================
 # ARCHIVOS DE SISTEMA y EDITORES
 # ============================================
 Thumbs.db
