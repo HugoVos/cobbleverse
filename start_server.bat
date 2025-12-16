@@ -21,7 +21,7 @@ echo.
 
 REM --- Sincronizar configuraciones desde Git (pero NO mods) ---
 echo [1/3] Sincronizando configuraciones del servidor...
-git pull orgin master --no-rebase
+git pull origin master --no-rebase
 if %errorlevel% neq 0 (
     echo ⚠  Advertencia: Hubo un problema al sincronizar con Git.
     echo    Continuando con los archivos locales...
