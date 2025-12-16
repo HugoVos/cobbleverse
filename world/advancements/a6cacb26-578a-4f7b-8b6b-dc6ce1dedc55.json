@@ -8,6 +8,7 @@
       "minecraft:river": "2025-12-16 11:41:44 +0100",
       "minecraft:lukewarm_ocean": "2025-12-16 11:48:48 +0100",
       "minecraft:stony_shore": "2025-12-16 11:42:17 +0100",
+      "minecraft:dripstone_caves": "2025-12-16 20:38:49 +0100",
       "minecraft:frozen_peaks": "2025-12-16 12:21:21 +0100",
       "minecraft:desert": "2025-12-15 23:14:25 +0100",
       "minecraft:ocean": "2025-12-16 12:21:42 +0100",
@@ -16,6 +17,7 @@
       "minecraft:sunflower_plains": "2025-12-16 14:40:55 +0100",
       "minecraft:grove": "2025-12-16 12:20:28 +0100",
       "minecraft:meadow": "2025-12-16 13:32:22 +0100",
+      "minecraft:birch_forest": "2025-12-16 23:00:23 +0100",
       "minecraft:savanna": "2025-12-16 12:17:42 +0100",
       "minecraft:plains": "2025-12-16 12:02:32 +0100",
       "minecraft:warm_ocean": "2025-12-16 00:00:01 +0100",
@@ -1044,6 +1046,7 @@
       "obtain_leppa_berry": "2025-12-16 15:27:16 +0100",
       "obtain_persim_berry": "2025-12-16 13:44:09 +0100",
       "obtain_cornn_berry": "2025-12-16 15:40:24 +0100",
+      "obtain_shuca_berry": "2025-12-16 22:35:22 +0100",
       "obtain_occa_berry": "2025-12-16 15:27:18 +0100",
       "obtain_mago_berry": "2025-12-16 15:40:19 +0100",
       "obtain_rawst_berry": "2025-12-16 15:27:12 +0100",
@@ -1682,10 +1685,12 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "slate_ball": "2025-12-16 19:49:09 +0100",
       "poke_ball": "2025-12-16 11:35:34 +0100",
       "premier_ball": "2025-12-16 13:08:55 +0100",
       "azure_ball": "2025-12-16 12:41:00 +0100",
-      "verdant_ball": "2025-12-16 12:41:38 +0100"
+      "verdant_ball": "2025-12-16 12:41:38 +0100",
+      "citrine_ball": "2025-12-16 22:10:18 +0100"
     },
     "done": false
   },
@@ -10151,13 +10156,26 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "dive_ball": "2025-12-16 11:55:46 +0100",
       "heal_ball": "2025-12-16 12:41:37 +0100",
+      "timer_ball": "2025-12-16 22:31:16 +0100",
+      "slate_ball": "2025-12-16 19:49:09 +0100",
+      "ancient_verdant_ball": "2025-12-16 22:10:26 +0100",
+      "ancient_feather_ball": "2025-12-16 22:10:24 +0100",
+      "ancient_poke_ball": "2025-12-16 22:43:17 +0100",
       "poke_ball": "2025-12-16 11:35:34 +0100",
+      "repeat_ball": "2025-12-16 22:10:19 +0100",
+      "azure_ball": "2025-12-16 12:41:00 +0100",
+      "ancient_azure_ball": "2025-12-16 20:40:42 +0100",
+      "citrine_ball": "2025-12-16 22:10:18 +0100",
+      "dive_ball": "2025-12-16 11:55:46 +0100",
+      "ancient_citrine_ball": "2025-12-16 22:29:57 +0100",
+      "ancient_slate_ball": "2025-12-16 20:40:24 +0100",
+      "sport_ball": "2025-12-16 22:10:22 +0100",
       "premier_ball": "2025-12-16 13:08:55 +0100",
       "park_ball": "2025-12-16 12:41:45 +0100",
-      "azure_ball": "2025-12-16 12:41:00 +0100",
-      "verdant_ball": "2025-12-16 12:41:38 +0100"
+      "heavy_ball": "2025-12-16 22:31:18 +0100",
+      "verdant_ball": "2025-12-16 12:41:38 +0100",
+      "ancient_heavy_ball": "2025-12-16 22:43:11 +0100"
     },
     "done": false
   },
@@ -24633,17 +24651,23 @@
     },
     "done": true
   },
+  "cobblemon:obtain_tumblestone": {
+    "criteria": {
+      "check_inv": "2025-12-16 14:49:57 +0100"
+    },
+    "done": true
+  },
   "cobblemon:recipes/campfire_pot/smart_candy": {
     "criteria": {
       "has_berry": "2025-12-16 15:27:11 +0100"
     },
     "done": false
   },
-  "cobblemon:obtain_tumblestone": {
+  "cobblemon:recipes/campfire_pot/numb_candy": {
     "criteria": {
-      "check_inv": "2025-12-16 14:49:57 +0100"
+      "has_berry": "2025-12-16 15:27:11 +0100"
     },
-    "done": true
+    "done": false
   },
   "cobblemon:medicinal_brew": {
     "criteria": {
@@ -24651,11 +24675,102 @@
     },
     "done": true
   },
-  "cobblemon:recipes/campfire_pot/numb_candy": {
+  "cobblemon:obtain_revival_herb": {
     "criteria": {
-      "has_berry": "2025-12-16 15:27:11 +0100"
+      "check_inv": "2025-12-16 20:40:05 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_citrine_ball": "2025-12-16 22:29:57 +0100",
+      "ancient_slate_ball": "2025-12-16 20:40:24 +0100",
+      "ancient_verdant_ball": "2025-12-16 22:10:26 +0100",
+      "ancient_feather_ball": "2025-12-16 22:10:24 +0100",
+      "ancient_poke_ball": "2025-12-16 22:43:17 +0100",
+      "ancient_azure_ball": "2025-12-16 20:40:42 +0100",
+      "ancient_heavy_ball": "2025-12-16 22:43:11 +0100"
     },
     "done": false
+  },
+  "cobblemon:recipes/misc/relic_coin": {
+    "criteria": {
+      "has_pouch": "2025-12-16 20:42:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-12-16 22:45:37 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "heavy_ball": "2025-12-16 22:31:18 +0100"
+    },
+    "done": false
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2025-12-16 22:20:18 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:cook_all_regional_delicacies": {
+    "criteria": {
+      "casteliacone": "2025-12-16 22:21:15 +0100",
+      "rage_candy_bar": "2025-12-16 22:21:15 +0100"
+    },
+    "done": false
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_panel_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2025-12-16 22:20:18 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2025-12-16 22:20:18 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_bricks_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2025-12-16 22:20:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-12-16 22:54:37 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:ride_pokemon": {
+    "criteria": {
+      "check_inv": "2025-12-16 22:00:17 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_wall_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2025-12-16 22:20:18 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_brock": {
+    "criteria": {
+      "leader_defeated": "2025-12-16 22:05:52 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2025-12-16 22:20:18 +0100"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

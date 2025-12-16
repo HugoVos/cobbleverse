@@ -7,25 +7,70 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2025-12-16 12:32:19 +0100",
-      "minecraft:savanna_plateau": "2025-12-16 12:35:39 +0100",
       "minecraft:snowy_slopes": "2025-12-16 12:23:24 +0100",
-      "minecraft:beach": "2025-12-16 11:49:43 +0100",
       "minecraft:forest": "2025-12-16 12:02:43 +0100",
-      "minecraft:river": "2025-12-16 11:45:30 +0100",
-      "minecraft:lukewarm_ocean": "2025-12-16 11:48:49 +0100",
-      "minecraft:stony_shore": "2025-12-16 11:46:12 +0100",
-      "minecraft:frozen_peaks": "2025-12-16 12:26:20 +0100",
+      "minecraft:taiga": "2025-12-16 21:58:06 +0100",
       "minecraft:desert": "2025-12-16 00:48:36 +0100",
       "minecraft:ocean": "2025-12-16 12:28:03 +0100",
       "minecraft:jungle": "2025-12-16 11:50:05 +0100",
-      "minecraft:grove": "2025-12-16 12:20:47 +0100",
-      "minecraft:savanna": "2025-12-16 12:02:21 +0100",
-      "minecraft:plains": "2025-12-16 12:02:13 +0100",
+      "minecraft:cherry_grove": "2025-12-16 19:45:02 +0100",
+      "minecraft:sunflower_plains": "2025-12-16 19:44:33 +0100",
+      "minecraft:windswept_hills": "2025-12-16 22:40:12 +0100",
+      "minecraft:old_growth_spruce_taiga": "2025-12-16 21:58:42 +0100",
       "minecraft:warm_ocean": "2025-12-16 11:48:41 +0100",
-      "minecraft:deep_lukewarm_ocean": "2025-12-16 11:48:56 +0100"
+      "minecraft:deep_lukewarm_ocean": "2025-12-16 11:48:56 +0100",
+      "minecraft:flower_forest": "2025-12-16 12:32:19 +0100",
+      "minecraft:savanna_plateau": "2025-12-16 12:35:39 +0100",
+      "minecraft:beach": "2025-12-16 11:49:43 +0100",
+      "minecraft:mangrove_swamp": "2025-12-16 22:47:16 +0100",
+      "minecraft:river": "2025-12-16 11:45:30 +0100",
+      "minecraft:lukewarm_ocean": "2025-12-16 11:48:49 +0100",
+      "minecraft:stony_shore": "2025-12-16 11:46:12 +0100",
+      "minecraft:dripstone_caves": "2025-12-16 20:34:00 +0100",
+      "minecraft:frozen_peaks": "2025-12-16 12:26:20 +0100",
+      "minecraft:grove": "2025-12-16 12:20:47 +0100",
+      "minecraft:swamp": "2025-12-16 22:33:37 +0100",
+      "minecraft:meadow": "2025-12-16 20:58:09 +0100",
+      "minecraft:savanna": "2025-12-16 12:02:21 +0100",
+      "minecraft:plains": "2025-12-16 12:02:13 +0100"
     },
     "done": false
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2025-12-16 11:34:35 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:gen_1": {
+    "criteria": {
+      "started_gen1": "2025-12-16 11:34:35 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/root": {
+    "criteria": {
+      "root": "2025-12-16 11:34:35 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_black": {
+    "criteria": {
+      "has_pokedex": "2025-12-16 11:34:35 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_pokedex": {
+    "criteria": {
+      "requirement": "2025-12-16 11:34:35 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-12-16 11:34:35 +0100"
+    },
+    "done": true
   },
   "tmcraft:recipes/misc/tm_magicalleaf": {
     "criteria": {
@@ -817,11 +862,13 @@
     "criteria": {
       "obtain_persim_berry": "2025-12-16 12:02:49 +0100",
       "obtain_passho_berry": "2025-12-16 12:47:30 +0100",
+      "obtain_shuca_berry": "2025-12-16 19:31:51 +0100",
       "obtain_kee_berry": "2025-12-16 12:47:29 +0100",
       "obtain_lum_berry": "2025-12-16 12:47:21 +0100",
       "obtain_cheri_berry": "2025-12-16 12:03:14 +0100",
       "obtain_oran_berry": "2025-12-16 11:34:36 +0100",
-      "obtain_pomeg_berry": "2025-12-16 12:47:24 +0100"
+      "obtain_pomeg_berry": "2025-12-16 12:47:24 +0100",
+      "obtain_kebia_berry": "2025-12-16 22:33:21 +0100"
     },
     "done": false
   },
@@ -918,12 +965,6 @@
   "cozyhome:recipes/building_blocks/sandstone_bathtub": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/relic_coin_pouch": {
-    "criteria": {
-      "has_coin": "2025-12-16 12:42:31 +0100"
     },
     "done": true
   },
@@ -1452,7 +1493,9 @@
   "cobblemon:craft_base_balls": {
     "criteria": {
       "roseate_ball": "2025-12-16 12:49:37 +0100",
+      "slate_ball": "2025-12-16 20:43:33 +0100",
       "poke_ball": "2025-12-16 11:34:36 +0100",
+      "premier_ball": "2025-12-16 23:11:03 +0100",
       "azure_ball": "2025-12-16 12:42:50 +0100"
     },
     "done": false
@@ -1754,12 +1797,6 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-12-16 12:06:04 +0100"
     },
     "done": true
   },
@@ -2963,12 +3000,6 @@
     },
     "done": true
   },
-  "cobblemon:root": {
-    "criteria": {
-      "picked_starter": "2025-12-16 11:34:35 +0100"
-    },
-    "done": true
-  },
   "tmcraft:recipes/misc/tm_alluringvoice": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -4055,12 +4086,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/campfire_pot/sickly_candy": {
-    "criteria": {
-      "has_berry": "2025-12-16 12:47:24 +0100"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -4352,12 +4377,6 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-12-16 11:52:50 +0100"
     },
     "done": true
   },
@@ -4727,12 +4746,6 @@
     },
     "done": true
   },
-  "cobblemon:harvest_apricorn": {
-    "criteria": {
-      "check_inv": "2025-12-16 12:41:06 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/galladite": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -5050,12 +5063,6 @@
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
     },
     "done": true
-  },
-  "cobblemon:recipes/campfire_pot/health_candy": {
-    "criteria": {
-      "has_berry": "2025-12-16 12:47:24 +0100"
-    },
-    "done": false
   },
   "carved_wood:recipes/building_blocks/birch_tile_slab": {
     "criteria": {
@@ -7343,12 +7350,6 @@
     },
     "done": true
   },
-  "cobblemon:cook_all_regional_delicacies": {
-    "criteria": {
-      "old_gateau": "2025-12-16 12:42:23 +0100"
-    },
-    "done": false
-  },
   "cozyhome:recipes/building_blocks/cherry_table": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -8390,12 +8391,6 @@
   "cobblemon:recipes/agriculture/coba_berry_smelt_to_dye": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/chest": {
-    "criteria": {
-      "has_planks": "2025-12-16 11:52:50 +0100"
     },
     "done": true
   },
@@ -9947,12 +9942,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-12-16 13:16:15 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -10033,10 +10022,19 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "roseate_ball": "2025-12-16 12:49:37 +0100",
+      "dusk_ball": "2025-12-16 20:41:02 +0100",
+      "great_ball": "2025-12-16 22:53:17 +0100",
+      "slate_ball": "2025-12-16 20:43:33 +0100",
       "ancient_verdant_ball": "2025-12-16 12:42:42 +0100",
+      "ancient_poke_ball": "2025-12-16 20:37:57 +0100",
       "poke_ball": "2025-12-16 11:34:36 +0100",
-      "azure_ball": "2025-12-16 12:42:50 +0100"
+      "repeat_ball": "2025-12-16 20:40:59 +0100",
+      "azure_ball": "2025-12-16 12:42:50 +0100",
+      "dive_ball": "2025-12-16 23:14:31 +0100",
+      "roseate_ball": "2025-12-16 12:49:37 +0100",
+      "sport_ball": "2025-12-16 20:41:15 +0100",
+      "premier_ball": "2025-12-16 23:11:03 +0100",
+      "heavy_ball": "2025-12-16 20:41:18 +0100"
     },
     "done": false
   },
@@ -12938,12 +12936,6 @@
     },
     "done": true
   },
-  "cobblemon:full_party": {
-    "criteria": {
-      "full_party": "2025-12-16 12:11:56 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -13136,12 +13128,6 @@
     },
     "done": true
   },
-  "cobbleverse:gen_1": {
-    "criteria": {
-      "started_gen1": "2025-12-16 11:34:35 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -13283,12 +13269,6 @@
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-12-16 12:22:45 +0100"
     },
     "done": true
   },
@@ -13760,21 +13740,9 @@
     },
     "done": true
   },
-  "mega_showdown:mega_showdown/root": {
-    "criteria": {
-      "root": "2025-12-16 11:34:35 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/pokedex_black": {
-    "criteria": {
-      "has_pokedex": "2025-12-16 11:34:35 +0100"
     },
     "done": true
   },
@@ -14594,12 +14562,6 @@
     },
     "done": true
   },
-  "cobblemon:craft_pokedex": {
-    "criteria": {
-      "requirement": "2025-12-16 11:34:35 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -14723,12 +14685,6 @@
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_stick": "2025-12-16 11:52:59 +0100"
     },
     "done": true
   },
@@ -14933,12 +14889,6 @@
   "comforts:recipes/building_blocks/dye_hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/bookshelf": {
-    "criteria": {
-      "has_planks": "2025-12-16 11:52:50 +0100"
     },
     "done": true
   },
@@ -15167,12 +15117,6 @@
   "sophisticatedstorage:recipes/misc/backpack_jukebox_upgrade_from_storage_jukebox_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-12-16 12:13:56 +0100"
     },
     "done": true
   },
@@ -15971,12 +15915,6 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:harvest_apricorn_seed": {
-    "criteria": {
-      "check_inv": "2025-12-16 12:41:11 +0100"
     },
     "done": true
   },
@@ -17342,12 +17280,6 @@
     },
     "done": true
   },
-  "cobblemon:brew_all": {
-    "criteria": {
-      "obtain_super_potion": "2025-12-16 13:17:28 +0100"
-    },
-    "done": false
-  },
   "handcrafted:recipes/misc/acacia_nightstand": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -17435,12 +17367,6 @@
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:obtain_mutated_berry": {
-    "criteria": {
-      "check_inv": "2025-12-16 12:47:21 +0100"
     },
     "done": true
   },
@@ -18145,12 +18071,6 @@
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
     },
     "done": true
-  },
-  "cobblemon:craft_ancient_balls": {
-    "criteria": {
-      "ancient_verdant_ball": "2025-12-16 12:42:42 +0100"
-    },
-    "done": false
   },
   "waystones:recipes/decorations/cyan_sharestone": {
     "criteria": {
@@ -20684,12 +20604,6 @@
     },
     "done": true
   },
-  "cobblemon:first_catch": {
-    "criteria": {
-      "catch": "2025-12-16 11:42:15 +0100"
-    },
-    "done": true
-  },
   "pokeblocks:recipes/decorations/gigantic_pokedoll_shiny_dolliv": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -20723,12 +20637,6 @@
   "moarconcrete:recipes/building_blocks/light_gray_concrete_gate": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-12-16 11:51:25 +0100"
     },
     "done": true
   },
@@ -21152,12 +21060,6 @@
     },
     "done": true
   },
-  "carved_wood:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2025-12-16 11:52:50 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/icium_z": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -21576,12 +21478,6 @@
   "handcrafted:recipes/misc/crimson_bench": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-12-16 11:52:59 +0100"
     },
     "done": true
   },
@@ -22311,12 +22207,6 @@
     },
     "done": true
   },
-  "cobblemon:healing_machine": {
-    "criteria": {
-      "use_healing_machine": "2025-12-16 12:47:42 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/cherry_shelf": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -22566,12 +22456,6 @@
   "handcrafted:recipes/misc/yellow_sheet": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-12-16 11:34:35 +0100"
     },
     "done": true
   },
@@ -23352,12 +23236,6 @@
   "minecraft:recipes/building_blocks/dye_gray_bed": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/ladder": {
-    "criteria": {
-      "has_planks": "2025-12-16 11:52:50 +0100"
     },
     "done": true
   },
@@ -24303,12 +24181,6 @@
     },
     "done": true
   },
-  "cobblemon:first_evolution": {
-    "criteria": {
-      "evolve": "2025-12-16 13:05:22 +0100"
-    },
-    "done": true
-  },
   "carved_wood:recipes/decorations/birch_lantern_from_birch_lantern_block": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
@@ -24528,6 +24400,235 @@
   "carved_wood:recipes/decorations/dark_oak_crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-12-16 11:34:36 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-12-16 11:42:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-12-16 11:51:25 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-12-16 11:52:50 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/chest": {
+    "criteria": {
+      "has_planks": "2025-12-16 11:52:50 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/bookshelf": {
+    "criteria": {
+      "has_planks": "2025-12-16 11:52:50 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-12-16 11:52:50 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/ladder": {
+    "criteria": {
+      "has_planks": "2025-12-16 11:52:50 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-12-16 11:52:59 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-12-16 11:52:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-12-16 12:06:04 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-12-16 12:11:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-12-16 12:13:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-12-16 12:22:45 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn": {
+    "criteria": {
+      "check_inv": "2025-12-16 12:41:06 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2025-12-16 12:41:11 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:cook_all_regional_delicacies": {
+    "criteria": {
+      "old_gateau": "2025-12-16 12:42:23 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2025-12-16 12:42:31 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_verdant_ball": "2025-12-16 12:42:42 +0100",
+      "ancient_poke_ball": "2025-12-16 20:37:57 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:obtain_mutated_berry": {
+    "criteria": {
+      "check_inv": "2025-12-16 12:47:21 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/sickly_candy": {
+    "criteria": {
+      "has_berry": "2025-12-16 12:47:24 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/health_candy": {
+    "criteria": {
+      "has_berry": "2025-12-16 12:47:24 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-12-16 12:47:42 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-12-16 13:05:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-12-16 13:16:15 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_potion": "2025-12-16 20:53:38 +0100",
+      "obtain_awakening": "2025-12-16 20:34:35 +0100",
+      "obtain_paralyze_heal": "2025-12-16 20:34:28 +0100",
+      "obtain_super_potion": "2025-12-16 13:17:28 +0100",
+      "obtain_max_potion": "2025-12-16 20:34:29 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:ride_pokemon": {
+    "criteria": {
+      "check_inv": "2025-12-16 19:33:47 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_brock": {
+    "criteria": {
+      "leader_defeated": "2025-12-16 20:06:20 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_mints": {
+    "criteria": {
+      "obtain_green_mint_leaf": "2025-12-16 20:34:32 +0100",
+      "obtain_cyan_mint_leaf": "2025-12-16 20:34:34 +0100",
+      "obtain_pink_mint_leaf": "2025-12-16 20:34:27 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:craft_remedy": {
+    "criteria": {
+      "check_inv": "2025-12-16 20:34:30 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2025-12-16 20:34:31 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:medicinal_brew": {
+    "criteria": {
+      "check_inv": "2025-12-16 20:34:43 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin": {
+    "criteria": {
+      "has_pouch": "2025-12-16 20:37:38 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "heavy_ball": "2025-12-16 20:41:18 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2025-12-16 20:53:38 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2025-12-16 22:01:06 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:use_revive": {
+    "criteria": {
+      "use_revive": "2025-12-16 22:44:03 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_misty": {
+    "criteria": {
+      "leader_defeated": "2025-12-16 23:19:55 +0100"
     },
     "done": true
   },

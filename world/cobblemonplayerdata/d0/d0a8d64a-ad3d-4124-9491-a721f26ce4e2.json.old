@@ -8,35 +8,50 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 13,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 23,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 51,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 17,
-    "totalPvNBattleVictoryCount": 6,
-    "totalShinyCaptureCount": 0,
+    "totalPvWBattleVictoryCount": 39,
+    "totalPvNBattleVictoryCount": 12,
+    "totalShinyCaptureCount": 2,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "water": 2,
       "ground": 2,
       "poison": 1,
-      "electric": 1,
-      "flying": 2,
-      "dark": 1,
-      "fighting": 1
+      "electric": 2,
+      "flying": 3,
+      "dark": 2,
+      "fighting": 2,
+      "fairy": 1,
+      "steel": 1,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:zigzagoon": 1,
       "cobblemon:crabrawler": 1,
       "cobblemon:phanpy": 2,
-      "cobblemon:mudbray": 1,
-      "cobblemon:snubbull": 1,
+      "cobblemon:mudbray": 2,
+      "cobblemon:snubbull": 4,
       "cobblemon:geodude": 1,
-      "cobblemon:drilbur": 1,
+      "cobblemon:drilbur": 3,
       "cobblemon:oddish": 1,
-      "cobblemon:purrloin": 1
+      "cobblemon:purrloin": 1,
+      "cobblemon:ekans": 1,
+      "cobblemon:girafarig": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:furret": 2,
+      "cobblemon:lechonk": 1,
+      "cobblemon:skitty": 1,
+      "cobblemon:dubwool": 1,
+      "cobblemon:psyduck": 1,
+      "cobblemon:poliwhirl": 1,
+      "cobblemon:cottonee": 1,
+      "cobblemon:pyroar": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -57,15 +72,41 @@
         "female"
       ],
       "cobblemon:rookidee": [
-        "male"
+        "male",
+        "shiny"
       ],
       "cobblemon:corvisquire": [
-        "male"
+        "male",
+        "shiny"
       ],
       "cobblemon:prinplup": [
         "male"
       ],
       "cobblemon:scraggy": [
+        "male"
+      ],
+      "cobblemon:gyarados": [
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:mankey": [
+        "female"
+      ],
+      "cobblemon:tinkatink": [
+        "female"
+      ],
+      "cobblemon:elekid": [
+        "male"
+      ],
+      "cobblemon:tinkatuff": [
+        "female"
+      ],
+      "cobblemon:purrloin": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:ponyta": [
         "male"
       ]
     }

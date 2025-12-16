@@ -8,51 +8,68 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 12,
+    "totalCaptureCount": 17,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 41,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 96,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 37,
-    "totalPvNBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 90,
+    "totalPvNBattleVictoryCount": 6,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "normal": 5,
       "bug": 1,
       "poison": 1,
-      "ghost": 2,
-      "electric": 1,
+      "ghost": 3,
+      "electric": 2,
       "fairy": 1,
-      "steel": 2,
+      "steel": 3,
       "grass": 1,
-      "flying": 4
+      "flying": 4,
+      "water": 1,
+      "fire": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:sandshrew": 1,
-      "cobblemon:wooloo": 2,
+      "cobblemon:wooloo": 4,
       "cobblemon:azurill": 1,
-      "cobblemon:ducklett": 1,
-      "cobblemon:patrat": 2,
+      "cobblemon:ducklett": 3,
+      "cobblemon:patrat": 3,
       "cobblemon:exeggcute": 1,
-      "cobblemon:skitty": 1,
-      "cobblemon:oddish": 1,
+      "cobblemon:skitty": 3,
+      "cobblemon:oddish": 3,
       "cobblemon:drilbur": 2,
       "cobblemon:woobat": 1,
       "cobblemon:poochyena": 1,
       "cobblemon:blitzle": 1,
       "cobblemon:purrloin": 1,
-      "cobblemon:pawmi": 1,
+      "cobblemon:pawmi": 2,
       "cobblemon:pidgey": 1,
       "cobblemon:combee": 1,
       "cobblemon:hoppip": 1,
       "cobblemon:flaaffy": 1,
-      "cobblemon:spoink": 1,
-      "cobblemon:rattata": 1,
-      "cobblemon:taillow": 1,
-      "cobblemon:lechonk": 1,
-      "cobblemon:gimmighoul": 5
+      "cobblemon:spoink": 3,
+      "cobblemon:rattata": 4,
+      "cobblemon:taillow": 4,
+      "cobblemon:lechonk": 2,
+      "cobblemon:gimmighoul": 10,
+      "cobblemon:gloom": 1,
+      "cobblemon:snubbull": 3,
+      "cobblemon:sentret": 1,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:mareep": 5,
+      "cobblemon:furret": 1,
+      "cobblemon:bunnelby": 2,
+      "cobblemon:skwovet": 1,
+      "cobblemon:deerling": 1,
+      "cobblemon:ledyba": 2,
+      "cobblemon:tinkatink": 1,
+      "cobblemon:mudbray": 1,
+      "cobblemon:smoliv": 1,
+      "cobblemon:bidoof": 3,
+      "cobblemon:meowth": 1
     },
     "aspectsCollected": {
       "cobblemon:sentret": [
@@ -100,6 +117,27 @@
         "male"
       ],
       "cobblemon:rookidee": [
+        "male"
+      ],
+      "cobblemon:corvisquire": [
+        "male"
+      ],
+      "cobblemon:elekid": [
+        "male"
+      ],
+      "cobblemon:chewtle": [
+        "female"
+      ],
+      "cobblemon:cyndaquil": [
+        "male"
+      ],
+      "cobblemon:doublade": [
+        "female"
+      ],
+      "cobblemon:drednaw": [
+        "female"
+      ],
+      "cobblemon:scorbunny": [
         "male"
       ]
     }
