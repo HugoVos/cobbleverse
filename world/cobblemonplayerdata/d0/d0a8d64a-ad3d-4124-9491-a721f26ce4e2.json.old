@@ -2,23 +2,72 @@
   "uuid": "d0a8d64a-ad3d-4124-9491-a721f26ce4e2",
   "starterPrompted": true,
   "starterLocked": false,
-  "starterSelected": false,
+  "starterSelected": true,
+  "starterUUID": "0c4467ec-0ee1-41ca-b561-61575bf0780c",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 7,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 23,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
-    "totalPvNBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 17,
+    "totalPvNBattleVictoryCount": 6,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {},
-    "aspectsCollected": {}
+    "totalTypeCaptureCounts": {
+      "water": 2,
+      "ground": 2,
+      "poison": 1,
+      "electric": 1,
+      "flying": 2,
+      "dark": 1,
+      "fighting": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:crabrawler": 1,
+      "cobblemon:phanpy": 2,
+      "cobblemon:mudbray": 1,
+      "cobblemon:snubbull": 1,
+      "cobblemon:geodude": 1,
+      "cobblemon:drilbur": 1,
+      "cobblemon:oddish": 1,
+      "cobblemon:purrloin": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:magikarp": [
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:silicobra": [
+        "male"
+      ],
+      "cobblemon:mareanie": [
+        "female"
+      ],
+      "cobblemon:drilbur": [
+        "female"
+      ],
+      "cobblemon:wattrel": [
+        "female"
+      ],
+      "cobblemon:rookidee": [
+        "male"
+      ],
+      "cobblemon:corvisquire": [
+        "male"
+      ],
+      "cobblemon:prinplup": [
+        "male"
+      ],
+      "cobblemon:scraggy": [
+        "male"
+      ]
+    }
   }
 }

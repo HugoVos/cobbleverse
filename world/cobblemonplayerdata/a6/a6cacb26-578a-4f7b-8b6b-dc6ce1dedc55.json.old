@@ -1,24 +1,107 @@
 {
   "uuid": "a6cacb26-578a-4f7b-8b6b-dc6ce1dedc55",
-  "starterPrompted": false,
+  "starterPrompted": true,
   "starterLocked": false,
-  "starterSelected": false,
+  "starterSelected": true,
+  "starterUUID": "a412cb72-112b-4825-9e68-698e443af30c",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 12,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 41,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
-    "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
+    "totalPvWBattleVictoryCount": 37,
+    "totalPvNBattleVictoryCount": 4,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {},
-    "aspectsCollected": {}
+    "totalTypeCaptureCounts": {
+      "normal": 5,
+      "bug": 1,
+      "poison": 1,
+      "ghost": 2,
+      "electric": 1,
+      "fairy": 1,
+      "steel": 2,
+      "grass": 1,
+      "flying": 4
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:sandshrew": 1,
+      "cobblemon:wooloo": 2,
+      "cobblemon:azurill": 1,
+      "cobblemon:ducklett": 1,
+      "cobblemon:patrat": 2,
+      "cobblemon:exeggcute": 1,
+      "cobblemon:skitty": 1,
+      "cobblemon:oddish": 1,
+      "cobblemon:drilbur": 2,
+      "cobblemon:woobat": 1,
+      "cobblemon:poochyena": 1,
+      "cobblemon:blitzle": 1,
+      "cobblemon:purrloin": 1,
+      "cobblemon:pawmi": 1,
+      "cobblemon:pidgey": 1,
+      "cobblemon:combee": 1,
+      "cobblemon:hoppip": 1,
+      "cobblemon:flaaffy": 1,
+      "cobblemon:spoink": 1,
+      "cobblemon:rattata": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:lechonk": 1,
+      "cobblemon:gimmighoul": 5
+    },
+    "aspectsCollected": {
+      "cobblemon:sentret": [
+        "male"
+      ],
+      "cobblemon:kakuna": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:gimmighoul": [
+        "genderless"
+      ],
+      "cobblemon:shinx": [
+        "male"
+      ],
+      "cobblemon:tinkatink": [
+        "female"
+      ],
+      "cobblemon:torracat": [
+        "male"
+      ],
+      "cobblemon:beedrill": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:luxio": [
+        "male"
+      ],
+      "cobblemon:honedge": [
+        "female"
+      ],
+      "cobblemon:fomantis": [
+        "male"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:pidgey": [
+        "male"
+      ],
+      "cobblemon:fletchling": [
+        "male"
+      ],
+      "cobblemon:starly": [
+        "male"
+      ],
+      "cobblemon:rookidee": [
+        "male"
+      ]
+    }
   }
 }
