@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-12-17 15:53:32 +0100",
       "minecraft:snowy_slopes": "2025-12-16 12:23:24 +0100",
       "minecraft:forest": "2025-12-16 12:02:43 +0100",
       "minecraft:taiga": "2025-12-16 21:58:06 +0100",
@@ -15,6 +16,7 @@
       "minecraft:jungle": "2025-12-16 11:50:05 +0100",
       "minecraft:cherry_grove": "2025-12-16 19:45:02 +0100",
       "minecraft:sunflower_plains": "2025-12-16 19:44:33 +0100",
+      "minecraft:birch_forest": "2025-12-17 15:21:07 +0100",
       "minecraft:windswept_hills": "2025-12-16 22:40:12 +0100",
       "minecraft:old_growth_spruce_taiga": "2025-12-16 21:58:42 +0100",
       "minecraft:warm_ocean": "2025-12-16 11:48:41 +0100",
@@ -22,12 +24,16 @@
       "minecraft:flower_forest": "2025-12-16 12:32:19 +0100",
       "minecraft:savanna_plateau": "2025-12-16 12:35:39 +0100",
       "minecraft:beach": "2025-12-16 11:49:43 +0100",
+      "minecraft:dark_forest": "2025-12-17 16:03:09 +0100",
+      "minecraft:stony_peaks": "2025-12-17 16:33:29 +0100",
       "minecraft:mangrove_swamp": "2025-12-16 22:47:16 +0100",
+      "minecraft:sparse_jungle": "2025-12-17 15:11:21 +0100",
       "minecraft:river": "2025-12-16 11:45:30 +0100",
       "minecraft:lukewarm_ocean": "2025-12-16 11:48:49 +0100",
       "minecraft:stony_shore": "2025-12-16 11:46:12 +0100",
       "minecraft:dripstone_caves": "2025-12-16 20:34:00 +0100",
       "minecraft:frozen_peaks": "2025-12-16 12:26:20 +0100",
+      "minecraft:old_growth_birch_forest": "2025-12-17 15:19:58 +0100",
       "minecraft:grove": "2025-12-16 12:20:47 +0100",
       "minecraft:swamp": "2025-12-16 22:33:37 +0100",
       "minecraft:meadow": "2025-12-16 20:58:09 +0100",
@@ -867,6 +873,7 @@
       "obtain_lum_berry": "2025-12-16 12:47:21 +0100",
       "obtain_cheri_berry": "2025-12-16 12:03:14 +0100",
       "obtain_oran_berry": "2025-12-16 11:34:36 +0100",
+      "obtain_bluk_berry": "2025-12-17 15:34:23 +0100",
       "obtain_pomeg_berry": "2025-12-16 12:47:24 +0100",
       "obtain_kebia_berry": "2025-12-16 22:33:21 +0100"
     },
@@ -1496,7 +1503,8 @@
       "slate_ball": "2025-12-16 20:43:33 +0100",
       "poke_ball": "2025-12-16 11:34:36 +0100",
       "premier_ball": "2025-12-16 23:11:03 +0100",
-      "azure_ball": "2025-12-16 12:42:50 +0100"
+      "azure_ball": "2025-12-16 12:42:50 +0100",
+      "citrine_ball": "2025-12-17 16:03:38 +0100"
     },
     "done": false
   },
@@ -10022,19 +10030,30 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "nest_ball": "2025-12-17 15:43:57 +0100",
       "dusk_ball": "2025-12-16 20:41:02 +0100",
       "great_ball": "2025-12-16 22:53:17 +0100",
       "slate_ball": "2025-12-16 20:43:33 +0100",
       "ancient_verdant_ball": "2025-12-16 12:42:42 +0100",
+      "ancient_feather_ball": "2025-12-17 15:43:59 +0100",
       "ancient_poke_ball": "2025-12-16 20:37:57 +0100",
+      "moon_ball": "2025-12-17 16:19:57 +0100",
       "poke_ball": "2025-12-16 11:34:36 +0100",
       "repeat_ball": "2025-12-16 20:40:59 +0100",
       "azure_ball": "2025-12-16 12:42:50 +0100",
+      "love_ball": "2025-12-17 16:18:19 +0100",
+      "citrine_ball": "2025-12-17 16:03:38 +0100",
+      "ancient_azure_ball": "2025-12-17 16:18:04 +0100",
+      "net_ball": "2025-12-17 15:12:59 +0100",
+      "ancient_ivory_ball": "2025-12-17 15:43:52 +0100",
       "dive_ball": "2025-12-16 23:14:31 +0100",
       "roseate_ball": "2025-12-16 12:49:37 +0100",
+      "friend_ball": "2025-12-17 16:19:16 +0100",
       "sport_ball": "2025-12-16 20:41:15 +0100",
+      "safari_ball": "2025-12-17 16:19:18 +0100",
       "premier_ball": "2025-12-16 23:11:03 +0100",
-      "heavy_ball": "2025-12-16 20:41:18 +0100"
+      "heavy_ball": "2025-12-16 20:41:18 +0100",
+      "ultra_ball": "2025-12-17 15:38:43 +0100"
     },
     "done": false
   },
@@ -24507,8 +24526,11 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
+      "ancient_ivory_ball": "2025-12-17 15:43:52 +0100",
       "ancient_verdant_ball": "2025-12-16 12:42:42 +0100",
-      "ancient_poke_ball": "2025-12-16 20:37:57 +0100"
+      "ancient_feather_ball": "2025-12-17 15:43:59 +0100",
+      "ancient_poke_ball": "2025-12-16 20:37:57 +0100",
+      "ancient_azure_ball": "2025-12-17 16:18:04 +0100"
     },
     "done": false
   },
@@ -24550,8 +24572,11 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_full_heal": "2025-12-17 15:50:15 +0100",
+      "obtain_ice_heal": "2025-12-17 15:50:15 +0100",
       "obtain_potion": "2025-12-16 20:53:38 +0100",
       "obtain_awakening": "2025-12-16 20:34:35 +0100",
+      "obtain_antidote": "2025-12-17 15:32:44 +0100",
       "obtain_paralyze_heal": "2025-12-16 20:34:28 +0100",
       "obtain_super_potion": "2025-12-16 13:17:28 +0100",
       "obtain_max_potion": "2025-12-16 20:34:29 +0100"
@@ -24604,7 +24629,10 @@
   },
   "cobblemon:craft_apricorn_balls": {
     "criteria": {
-      "heavy_ball": "2025-12-16 20:41:18 +0100"
+      "friend_ball": "2025-12-17 16:19:16 +0100",
+      "moon_ball": "2025-12-17 16:19:57 +0100",
+      "heavy_ball": "2025-12-16 20:41:18 +0100",
+      "love_ball": "2025-12-17 16:18:19 +0100"
     },
     "done": false
   },
@@ -24629,6 +24657,48 @@
   "cobbleverse:trainer/kanto/defeat_misty": {
     "criteria": {
       "leader_defeated": "2025-12-16 23:19:55 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-12-17 15:43:16 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-12-17 15:43:16 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-12-17 15:43:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-12-17 15:45:47 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-12-17 16:19:10 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-12-17 16:19:10 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_xs_candy": "2025-12-17 16:25:59 +0100"
     },
     "done": true
   },

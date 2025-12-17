@@ -1,27 +1,31 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2025-12-16 12:30:11 +0100",
-      "minecraft:savanna_plateau": "2025-12-16 12:35:33 +0100",
-      "minecraft:beach": "2025-12-16 11:49:33 +0100",
+      "minecraft:cold_ocean": "2025-12-17 16:22:12 +0100",
       "minecraft:forest": "2025-12-16 11:55:37 +0100",
-      "minecraft:river": "2025-12-16 11:41:44 +0100",
-      "minecraft:lukewarm_ocean": "2025-12-16 11:48:48 +0100",
-      "minecraft:stony_shore": "2025-12-16 11:42:17 +0100",
-      "minecraft:dripstone_caves": "2025-12-16 20:38:49 +0100",
-      "minecraft:frozen_peaks": "2025-12-16 12:21:21 +0100",
+      "minecraft:deep_cold_ocean": "2025-12-17 16:23:50 +0100",
       "minecraft:desert": "2025-12-15 23:14:25 +0100",
       "minecraft:ocean": "2025-12-16 12:21:42 +0100",
       "minecraft:jungle": "2025-12-16 11:49:42 +0100",
       "minecraft:cherry_grove": "2025-12-16 15:18:48 +0100",
       "minecraft:sunflower_plains": "2025-12-16 14:40:55 +0100",
+      "minecraft:birch_forest": "2025-12-16 23:00:23 +0100",
+      "minecraft:warm_ocean": "2025-12-16 00:00:01 +0100",
+      "minecraft:deep_lukewarm_ocean": "2025-12-16 11:48:57 +0100",
+      "minecraft:flower_forest": "2025-12-16 12:30:11 +0100",
+      "minecraft:savanna_plateau": "2025-12-16 12:35:33 +0100",
+      "minecraft:beach": "2025-12-16 11:49:33 +0100",
+      "minecraft:dark_forest": "2025-12-17 16:10:35 +0100",
+      "minecraft:river": "2025-12-16 11:41:44 +0100",
+      "minecraft:lukewarm_ocean": "2025-12-16 11:48:48 +0100",
+      "minecraft:stony_shore": "2025-12-16 11:42:17 +0100",
+      "minecraft:dripstone_caves": "2025-12-16 20:38:49 +0100",
+      "minecraft:frozen_peaks": "2025-12-16 12:21:21 +0100",
+      "minecraft:old_growth_birch_forest": "2025-12-17 16:16:00 +0100",
       "minecraft:grove": "2025-12-16 12:20:28 +0100",
       "minecraft:meadow": "2025-12-16 13:32:22 +0100",
-      "minecraft:birch_forest": "2025-12-16 23:00:23 +0100",
       "minecraft:savanna": "2025-12-16 12:17:42 +0100",
-      "minecraft:plains": "2025-12-16 12:02:32 +0100",
-      "minecraft:warm_ocean": "2025-12-16 00:00:01 +0100",
-      "minecraft:deep_lukewarm_ocean": "2025-12-16 11:48:57 +0100"
+      "minecraft:plains": "2025-12-16 12:02:32 +0100"
     },
     "done": false
   },
@@ -1063,6 +1067,7 @@
       "obtain_durin_berry": "2025-12-16 15:27:14 +0100",
       "obtain_babiri_berry": "2025-12-16 15:40:17 +0100",
       "obtain_passho_berry": "2025-12-16 13:44:08 +0100",
+      "obtain_figy_berry": "2025-12-17 14:04:08 +0100",
       "obtain_kee_berry": "2025-12-16 13:44:08 +0100",
       "obtain_cheri_berry": "2025-12-16 13:44:09 +0100",
       "obtain_petaya_berry": "2025-12-16 15:46:30 +0100",
@@ -1685,6 +1690,7 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "roseate_ball": "2025-12-17 13:53:07 +0100",
       "slate_ball": "2025-12-16 19:49:09 +0100",
       "poke_ball": "2025-12-16 11:35:34 +0100",
       "premier_ball": "2025-12-16 13:08:55 +0100",
@@ -1692,7 +1698,7 @@
       "verdant_ball": "2025-12-16 12:41:38 +0100",
       "citrine_ball": "2025-12-16 22:10:18 +0100"
     },
-    "done": false
+    "done": true
   },
   "handcrafted:recipes/misc/light_blue_cushion": {
     "criteria": {
@@ -10156,26 +10162,39 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "heal_ball": "2025-12-16 12:41:37 +0100",
+      "nest_ball": "2025-12-17 11:50:13 +0100",
+      "quick_ball": "2025-12-17 15:59:07 +0100",
+      "great_ball": "2025-12-17 14:04:02 +0100",
       "timer_ball": "2025-12-16 22:31:16 +0100",
-      "slate_ball": "2025-12-16 19:49:09 +0100",
-      "ancient_verdant_ball": "2025-12-16 22:10:26 +0100",
-      "ancient_feather_ball": "2025-12-16 22:10:24 +0100",
       "ancient_poke_ball": "2025-12-16 22:43:17 +0100",
-      "poke_ball": "2025-12-16 11:35:34 +0100",
+      "moon_ball": "2025-12-17 15:55:16 +0100",
       "repeat_ball": "2025-12-16 22:10:19 +0100",
       "azure_ball": "2025-12-16 12:41:00 +0100",
-      "ancient_azure_ball": "2025-12-16 20:40:42 +0100",
-      "citrine_ball": "2025-12-16 22:10:18 +0100",
+      "love_ball": "2025-12-17 16:12:20 +0100",
+      "net_ball": "2025-12-17 15:54:43 +0100",
       "dive_ball": "2025-12-16 11:55:46 +0100",
       "ancient_citrine_ball": "2025-12-16 22:29:57 +0100",
       "ancient_slate_ball": "2025-12-16 20:40:24 +0100",
+      "level_ball": "2025-12-17 16:13:01 +0100",
       "sport_ball": "2025-12-16 22:10:22 +0100",
-      "premier_ball": "2025-12-16 13:08:55 +0100",
-      "park_ball": "2025-12-16 12:41:45 +0100",
       "heavy_ball": "2025-12-16 22:31:18 +0100",
       "verdant_ball": "2025-12-16 12:41:38 +0100",
-      "ancient_heavy_ball": "2025-12-16 22:43:11 +0100"
+      "ancient_heavy_ball": "2025-12-16 22:43:11 +0100",
+      "ultra_ball": "2025-12-17 13:01:25 +0100",
+      "fast_ball": "2025-12-17 16:02:09 +0100",
+      "heal_ball": "2025-12-16 12:41:37 +0100",
+      "slate_ball": "2025-12-16 19:49:09 +0100",
+      "ancient_verdant_ball": "2025-12-16 22:10:26 +0100",
+      "ancient_feather_ball": "2025-12-16 22:10:24 +0100",
+      "poke_ball": "2025-12-16 11:35:34 +0100",
+      "ancient_azure_ball": "2025-12-16 20:40:42 +0100",
+      "citrine_ball": "2025-12-16 22:10:18 +0100",
+      "ancient_ivory_ball": "2025-12-17 15:58:28 +0100",
+      "roseate_ball": "2025-12-17 13:53:07 +0100",
+      "lure_ball": "2025-12-17 16:43:18 +0100",
+      "friend_ball": "2025-12-17 16:43:34 +0100",
+      "premier_ball": "2025-12-16 13:08:55 +0100",
+      "park_ball": "2025-12-16 12:41:45 +0100"
     },
     "done": false
   },
@@ -24597,6 +24616,7 @@
   },
   "cobblemon:obtain_all_mints": {
     "criteria": {
+      "obtain_cyan_mint_leaf": "2025-12-17 15:22:56 +0100",
       "obtain_blue_mint_leaf": "2025-12-16 12:57:39 +0100"
     },
     "done": false
@@ -24609,9 +24629,15 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_full_heal": "2025-12-17 15:23:18 +0100",
+      "obtain_ice_heal": "2025-12-17 15:23:16 +0100",
+      "obtain_burn_heal": "2025-12-17 16:02:00 +0100",
       "obtain_potion": "2025-12-16 12:59:35 +0100",
+      "obtain_awakening": "2025-12-17 11:57:09 +0100",
       "obtain_antidote": "2025-12-16 13:00:04 +0100",
-      "obtain_elixir": "2025-12-16 13:15:10 +0100"
+      "obtain_elixir": "2025-12-16 13:15:10 +0100",
+      "obtain_hyper_potion": "2025-12-17 16:09:44 +0100",
+      "obtain_super_potion": "2025-12-17 15:22:59 +0100"
     },
     "done": false
   },
@@ -24683,6 +24709,7 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
+      "ancient_ivory_ball": "2025-12-17 15:58:28 +0100",
       "ancient_citrine_ball": "2025-12-16 22:29:57 +0100",
       "ancient_slate_ball": "2025-12-16 20:40:24 +0100",
       "ancient_verdant_ball": "2025-12-16 22:10:26 +0100",
@@ -24699,30 +24726,23 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "cobblemon:ride_pokemon": {
     "criteria": {
-      "diamond_leggings": "2025-12-16 22:45:37 +0100"
+      "check_inv": "2025-12-16 22:00:17 +0100"
     },
     "done": true
   },
-  "cobblemon:craft_apricorn_balls": {
+  "cobbleverse:trainer/kanto/defeat_brock": {
     "criteria": {
-      "heavy_ball": "2025-12-16 22:31:18 +0100"
+      "leader_defeated": "2025-12-16 22:05:52 +0100"
     },
-    "done": false
+    "done": true
   },
   "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
     "criteria": {
       "has_white_concrete": "2025-12-16 22:20:18 +0100"
     },
     "done": true
-  },
-  "cobblemon:cook_all_regional_delicacies": {
-    "criteria": {
-      "casteliacone": "2025-12-16 22:21:15 +0100",
-      "rage_candy_bar": "2025-12-16 22:21:15 +0100"
-    },
-    "done": false
   },
   "moarconcrete:recipes/building_blocks/white_concrete_panel_from_white_concrete_stonecutting": {
     "criteria": {
@@ -24742,33 +24762,101 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-12-16 22:54:37 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:ride_pokemon": {
-    "criteria": {
-      "check_inv": "2025-12-16 22:00:17 +0100"
-    },
-    "done": true
-  },
   "moarconcrete:recipes/building_blocks/white_concrete_wall_from_white_concrete_stonecutting": {
     "criteria": {
       "has_white_concrete": "2025-12-16 22:20:18 +0100"
     },
     "done": true
   },
-  "cobbleverse:trainer/kanto/defeat_brock": {
-    "criteria": {
-      "leader_defeated": "2025-12-16 22:05:52 +0100"
-    },
-    "done": true
-  },
   "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
     "criteria": {
       "has_white_concrete": "2025-12-16 22:20:18 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:cook_all_regional_delicacies": {
+    "criteria": {
+      "casteliacone": "2025-12-16 22:21:15 +0100",
+      "rage_candy_bar": "2025-12-16 22:21:15 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "lure_ball": "2025-12-17 16:43:18 +0100",
+      "level_ball": "2025-12-17 16:13:01 +0100",
+      "friend_ball": "2025-12-17 16:43:34 +0100",
+      "moon_ball": "2025-12-17 15:55:16 +0100",
+      "heavy_ball": "2025-12-16 22:31:18 +0100",
+      "love_ball": "2025-12-17 16:12:20 +0100",
+      "fast_ball": "2025-12-17 16:02:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-12-16 22:45:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-12-16 22:54:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-12-17 12:26:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-12-17 12:27:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-17 12:34:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-17 12:34:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-12-17 12:35:07 +0100",
+      "minecraft:soul_sand_valley": "2025-12-17 12:34:39 +0100"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-12-17 16:13:15 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_misty": {
+    "criteria": {
+      "leader_defeated": "2025-12-17 15:37:59 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-12-17 15:23:35 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-12-17 15:23:35 +0100"
     },
     "done": true
   },
