@@ -8,28 +8,30 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 16,
+    "totalCaptureCount": 20,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 75,
+    "totalEvolvedCount": 14,
+    "totalBattleVictoryCount": 97,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 52,
-    "totalPvNBattleVictoryCount": 23,
+    "totalPvWBattleVictoryCount": 66,
+    "totalPvNBattleVictoryCount": 31,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "water": 2,
-      "ground": 2,
+      "ground": 4,
       "poison": 1,
       "electric": 2,
       "flying": 3,
-      "dark": 2,
+      "dark": 3,
       "fighting": 3,
       "fairy": 1,
       "steel": 1,
-      "fire": 1,
-      "normal": 2
+      "fire": 2,
+      "normal": 2,
+      "ice": 1,
+      "rock": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:zigzagoon": 1,
@@ -42,7 +44,7 @@
       "cobblemon:oddish": 2,
       "cobblemon:purrloin": 1,
       "cobblemon:ekans": 1,
-      "cobblemon:girafarig": 1,
+      "cobblemon:girafarig": 4,
       "cobblemon:wooloo": 1,
       "cobblemon:patrat": 1,
       "cobblemon:furret": 2,
@@ -56,11 +58,18 @@
       "cobblemon:petilil": 1,
       "cobblemon:nuzleaf": 1,
       "cobblemon:granbull": 1,
-      "cobblemon:gimmighoul": 2,
+      "cobblemon:gimmighoul": 6,
       "cobblemon:oricorio": 2,
       "cobblemon:pawmo": 1,
       "cobblemon:bouffalant": 1,
-      "cobblemon:dolliv": 1
+      "cobblemon:dolliv": 1,
+      "cobblemon:lickilicky": 1,
+      "cobblemon:squawkabilly": 1,
+      "cobblemon:miltank": 1,
+      "cobblemon:growlithe": 1,
+      "cobblemon:weezing": 1,
+      "cobblemon:xatu": 1,
+      "cobblemon:dachsbun": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -139,6 +148,35 @@
         "male"
       ],
       "cobblemon:pangoro": [
+        "male"
+      ],
+      "cobblemon:cubchoo": [
+        "male"
+      ],
+      "cobblemon:toxapex": [
+        "female"
+      ],
+      "cobblemon:growlithe": [
+        "male",
+        "hisuian"
+      ],
+      "cobblemon:trapinch": [
+        "female"
+      ],
+      "cobblemon:sandile": [
+        "male"
+      ],
+      "cobblemon:arcanine": [
+        "male",
+        "hisuian"
+      ],
+      "cobblemon:krokorok": [
+        "male"
+      ],
+      "cobblemon:krookodile": [
+        "male"
+      ],
+      "cobblemon:beartic": [
         "male"
       ]
     }
