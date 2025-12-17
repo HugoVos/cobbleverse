@@ -11,11 +11,11 @@
     "totalCaptureCount": 16,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 68,
+    "totalEvolvedCount": 9,
+    "totalBattleVictoryCount": 75,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 49,
-    "totalPvNBattleVictoryCount": 19,
+    "totalPvWBattleVictoryCount": 52,
+    "totalPvNBattleVictoryCount": 23,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -39,7 +39,7 @@
       "cobblemon:snubbull": 5,
       "cobblemon:geodude": 1,
       "cobblemon:drilbur": 3,
-      "cobblemon:oddish": 1,
+      "cobblemon:oddish": 2,
       "cobblemon:purrloin": 1,
       "cobblemon:ekans": 1,
       "cobblemon:girafarig": 1,
@@ -56,10 +56,11 @@
       "cobblemon:petilil": 1,
       "cobblemon:nuzleaf": 1,
       "cobblemon:granbull": 1,
-      "cobblemon:gimmighoul": 1,
+      "cobblemon:gimmighoul": 2,
       "cobblemon:oricorio": 2,
       "cobblemon:pawmo": 1,
-      "cobblemon:bouffalant": 1
+      "cobblemon:bouffalant": 1,
+      "cobblemon:dolliv": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -132,6 +133,12 @@
       ],
       "cobblemon:corviknight": [
         "shiny",
+        "male"
+      ],
+      "cobblemon:empoleon": [
+        "male"
+      ],
+      "cobblemon:pangoro": [
         "male"
       ]
     }
