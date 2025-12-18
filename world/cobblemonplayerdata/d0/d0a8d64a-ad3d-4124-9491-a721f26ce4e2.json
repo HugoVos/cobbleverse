@@ -8,28 +8,28 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 20,
+    "totalCaptureCount": 23,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 14,
-    "totalBattleVictoryCount": 97,
+    "totalEvolvedCount": 16,
+    "totalBattleVictoryCount": 109,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 66,
-    "totalPvNBattleVictoryCount": 31,
-    "totalShinyCaptureCount": 3,
+    "totalPvWBattleVictoryCount": 68,
+    "totalPvNBattleVictoryCount": 41,
+    "totalShinyCaptureCount": 4,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "water": 2,
+      "water": 3,
       "ground": 4,
-      "poison": 1,
-      "electric": 2,
+      "poison": 2,
+      "electric": 3,
       "flying": 3,
       "dark": 3,
       "fighting": 3,
       "fairy": 1,
       "steel": 1,
       "fire": 2,
-      "normal": 2,
+      "normal": 3,
       "ice": 1,
       "rock": 1
     },
@@ -58,7 +58,7 @@
       "cobblemon:petilil": 1,
       "cobblemon:nuzleaf": 1,
       "cobblemon:granbull": 1,
-      "cobblemon:gimmighoul": 6,
+      "cobblemon:gimmighoul": 7,
       "cobblemon:oricorio": 2,
       "cobblemon:pawmo": 1,
       "cobblemon:bouffalant": 1,
@@ -69,7 +69,8 @@
       "cobblemon:growlithe": 1,
       "cobblemon:weezing": 1,
       "cobblemon:xatu": 1,
-      "cobblemon:dachsbun": 1
+      "cobblemon:dachsbun": 1,
+      "cobblemon:ironthorns": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -177,6 +178,22 @@
         "male"
       ],
       "cobblemon:beartic": [
+        "male"
+      ],
+      "cobblemon:teddiursa": [
+        "male"
+      ],
+      "cobblemon:ursaring": [
+        "male"
+      ],
+      "cobblemon:ursaluna": [
+        "male"
+      ],
+      "cobblemon:toxel": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:totodile": [
         "male"
       ]
     }
