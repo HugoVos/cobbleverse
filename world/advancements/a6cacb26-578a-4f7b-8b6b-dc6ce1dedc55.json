@@ -5,6 +5,7 @@
       "minecraft:old_growth_pine_taiga": "2025-12-17 23:42:05 +0100",
       "minecraft:forest": "2025-12-16 11:55:37 +0100",
       "minecraft:taiga": "2025-12-17 23:28:16 +0100",
+      "minecraft:deep_ocean": "2025-12-18 15:14:47 +0100",
       "minecraft:deep_cold_ocean": "2025-12-17 16:23:50 +0100",
       "minecraft:frozen_ocean": "2025-12-17 23:28:49 +0100",
       "minecraft:desert": "2025-12-15 23:14:25 +0100",
@@ -16,12 +17,15 @@
       "minecraft:sunflower_plains": "2025-12-16 14:40:55 +0100",
       "minecraft:birch_forest": "2025-12-16 23:00:23 +0100",
       "minecraft:snowy_beach": "2025-12-17 23:36:14 +0100",
+      "minecraft:wooded_badlands": "2025-12-18 15:24:55 +0100",
       "minecraft:warm_ocean": "2025-12-16 00:00:01 +0100",
       "minecraft:deep_lukewarm_ocean": "2025-12-16 11:48:57 +0100",
+      "minecraft:badlands": "2025-12-18 15:26:33 +0100",
       "minecraft:flower_forest": "2025-12-16 12:30:11 +0100",
       "minecraft:savanna_plateau": "2025-12-16 12:35:33 +0100",
       "minecraft:beach": "2025-12-16 11:49:33 +0100",
       "minecraft:dark_forest": "2025-12-17 16:10:35 +0100",
+      "minecraft:sparse_jungle": "2025-12-18 15:19:52 +0100",
       "minecraft:river": "2025-12-16 11:41:44 +0100",
       "minecraft:lukewarm_ocean": "2025-12-16 11:48:48 +0100",
       "minecraft:stony_shore": "2025-12-16 11:42:17 +0100",
@@ -1079,6 +1083,7 @@
       "obtain_figy_berry": "2025-12-17 14:04:08 +0100",
       "obtain_kee_berry": "2025-12-16 13:44:08 +0100",
       "obtain_cheri_berry": "2025-12-16 13:44:09 +0100",
+      "obtain_colbur_berry": "2025-12-18 12:52:14 +0100",
       "obtain_petaya_berry": "2025-12-16 15:46:30 +0100",
       "obtain_roseli_berry": "2025-12-16 15:46:34 +0100",
       "obtain_kasib_berry": "2025-12-16 15:46:37 +0100"
@@ -10171,6 +10176,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "luxury_ball": "2025-12-18 15:11:44 +0100",
       "nest_ball": "2025-12-17 11:50:13 +0100",
       "quick_ball": "2025-12-17 15:59:07 +0100",
       "great_ball": "2025-12-17 14:04:02 +0100",
@@ -10186,6 +10192,7 @@
       "ancient_slate_ball": "2025-12-16 20:40:24 +0100",
       "level_ball": "2025-12-17 16:13:01 +0100",
       "sport_ball": "2025-12-16 22:10:22 +0100",
+      "ancient_ultra_ball": "2025-12-18 16:23:51 +0100",
       "heavy_ball": "2025-12-16 22:31:18 +0100",
       "verdant_ball": "2025-12-16 12:41:38 +0100",
       "ancient_heavy_ball": "2025-12-16 22:43:11 +0100",
@@ -10202,6 +10209,7 @@
       "roseate_ball": "2025-12-17 13:53:07 +0100",
       "lure_ball": "2025-12-17 16:43:18 +0100",
       "friend_ball": "2025-12-17 16:43:34 +0100",
+      "ancient_roseate_ball": "2025-12-18 16:21:56 +0100",
       "premier_ball": "2025-12-16 13:08:55 +0100",
       "park_ball": "2025-12-16 12:41:45 +0100"
     },
@@ -24617,11 +24625,14 @@
   "cobblemon:rainbow_apricorns": {
     "criteria": {
       "place_black": "2025-12-16 12:57:09 +0100",
+      "place_green": "2025-12-18 15:58:40 +0100",
+      "place_white": "2025-12-18 15:59:00 +0100",
       "place_yellow": "2025-12-16 12:57:00 +0100",
+      "place_pink": "2025-12-18 15:58:17 +0100",
       "place_red": "2025-12-16 12:57:05 +0100",
       "place_blue": "2025-12-16 12:57:15 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:obtain_all_mints": {
     "criteria": {
@@ -24724,7 +24735,9 @@
       "ancient_slate_ball": "2025-12-16 20:40:24 +0100",
       "ancient_verdant_ball": "2025-12-16 22:10:26 +0100",
       "ancient_feather_ball": "2025-12-16 22:10:24 +0100",
+      "ancient_roseate_ball": "2025-12-18 16:21:56 +0100",
       "ancient_poke_ball": "2025-12-16 22:43:17 +0100",
+      "ancient_ultra_ball": "2025-12-18 16:23:51 +0100",
       "ancient_azure_ball": "2025-12-16 20:40:42 +0100",
       "ancient_heavy_ball": "2025-12-16 22:43:11 +0100"
     },
@@ -24842,7 +24855,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-12-17 12:35:07 +0100",
-      "minecraft:soul_sand_valley": "2025-12-17 12:34:39 +0100"
+      "minecraft:soul_sand_valley": "2025-12-17 12:34:39 +0100",
+      "minecraft:nether_wastes": "2025-12-18 16:15:26 +0100",
+      "minecraft:basalt_deltas": "2025-12-18 16:06:13 +0100"
     },
     "done": false
   },
@@ -24879,6 +24894,36 @@
   "cobblemon:use_candy": {
     "criteria": {
       "use_xs_candy": "2025-12-18 00:55:25 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_ltsurge": {
+    "criteria": {
+      "leader_defeated": "2025-12-18 13:00:30 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:interact_with_pokemon": {
+    "criteria": {
+      "brush_interactable_pokemon": "2025-12-18 13:26:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-12-18 16:19:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-12-18 16:08:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-12-18 16:23:02 +0100"
     },
     "done": true
   },
