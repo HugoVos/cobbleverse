@@ -8,20 +8,20 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 23,
+    "totalCaptureCount": 25,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 16,
-    "totalBattleVictoryCount": 109,
+    "totalEvolvedCount": 17,
+    "totalBattleVictoryCount": 110,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 68,
-    "totalPvNBattleVictoryCount": 41,
-    "totalShinyCaptureCount": 4,
-    "totalTradedCount": 0,
+    "totalPvNBattleVictoryCount": 42,
+    "totalShinyCaptureCount": 5,
+    "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "water": 3,
-      "ground": 4,
-      "poison": 2,
+      "ground": 5,
+      "poison": 3,
       "electric": 3,
       "flying": 3,
       "dark": 3,
@@ -31,7 +31,8 @@
       "fire": 2,
       "normal": 3,
       "ice": 1,
-      "rock": 1
+      "rock": 2,
+      "ghost": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:zigzagoon": 1,
@@ -194,6 +195,16 @@
         "female"
       ],
       "cobblemon:totodile": [
+        "male"
+      ],
+      "cobblemon:geodude": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:haunter": [
+        "male"
+      ],
+      "cobblemon:gengar": [
         "male"
       ]
     }

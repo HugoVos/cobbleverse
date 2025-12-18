@@ -8,33 +8,33 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 55,
+    "totalCaptureCount": 72,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 211,
+    "totalEvolvedCount": 11,
+    "totalBattleVictoryCount": 242,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 198,
-    "totalPvNBattleVictoryCount": 13,
+    "totalPvWBattleVictoryCount": 226,
+    "totalPvNBattleVictoryCount": 16,
     "totalShinyCaptureCount": 4,
-    "totalTradedCount": 0,
+    "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
-      "normal": 10,
+      "normal": 14,
       "bug": 4,
-      "poison": 4,
-      "ghost": 4,
-      "electric": 5,
+      "poison": 5,
+      "ghost": 5,
+      "electric": 8,
       "fairy": 5,
-      "steel": 5,
-      "grass": 6,
-      "flying": 7,
+      "steel": 6,
+      "grass": 8,
+      "flying": 9,
       "water": 2,
-      "fire": 8,
+      "fire": 9,
       "rock": 2,
-      "fighting": 3,
-      "dark": 3,
-      "dragon": 3,
-      "ground": 6,
+      "fighting": 6,
+      "dark": 4,
+      "dragon": 6,
+      "ground": 9,
       "psychic": 1,
       "ice": 1
     },
@@ -61,7 +61,7 @@
       "cobblemon:rattata": 4,
       "cobblemon:taillow": 5,
       "cobblemon:lechonk": 2,
-      "cobblemon:gimmighoul": 21,
+      "cobblemon:gimmighoul": 28,
       "cobblemon:gloom": 1,
       "cobblemon:snubbull": 5,
       "cobblemon:sentret": 1,
@@ -99,7 +99,7 @@
       "cobblemon:girafarig": 2,
       "cobblemon:delcatty": 1,
       "cobblemon:litleo": 4,
-      "cobblemon:arbok": 1,
+      "cobblemon:arbok": 2,
       "cobblemon:phanpy": 1,
       "cobblemon:capsakid": 2,
       "cobblemon:galvantula": 1,
@@ -110,7 +110,15 @@
       "cobblemon:electrike": 1,
       "cobblemon:swoobat": 1,
       "cobblemon:starly": 1,
-      "cobblemon:charcadet": 1
+      "cobblemon:charcadet": 1,
+      "cobblemon:pyroar": 1,
+      "cobblemon:charjabug": 1,
+      "cobblemon:grumpig": 1,
+      "cobblemon:espathra": 1,
+      "cobblemon:camerupt": 1,
+      "cobblemon:helioptile": 1,
+      "cobblemon:cufant": 1,
+      "cobblemon:cacturne": 1
     },
     "aspectsCollected": {
       "cobblemon:sentret": [
@@ -288,7 +296,10 @@
       ],
       "cobblemon:pikachu": [
         "female",
-        "cosplay"
+        "cosplay",
+        "male",
+        "region-bias-alola",
+        "rock_star"
       ],
       "cobblemon:pikipek": [
         "female"
@@ -311,6 +322,49 @@
       ],
       "cobblemon:volcarona": [
         "female"
+      ],
+      "cobblemon:phantump": [
+        "male",
+        "tree-none"
+      ],
+      "cobblemon:mienfoo": [
+        "male"
+      ],
+      "cobblemon:treecko": [
+        "male"
+      ],
+      "cobblemon:revavroom": [
+        "female"
+      ],
+      "cobblemon:falinks": [
+        "genderless"
+      ],
+      "cobblemon:grovyle": [
+        "male"
+      ],
+      "cobblemon:gligar": [
+        "female"
+      ],
+      "cobblemon:ditto": [
+        "genderless"
+      ],
+      "cobblemon:cyclizar": [
+        "female"
+      ],
+      "cobblemon:greattusk": [
+        "genderless"
+      ],
+      "cobblemon:fuecoco": [
+        "male"
+      ],
+      "cobblemon:ragingbolt": [
+        "genderless"
+      ],
+      "cobblemon:gible": [
+        "male"
+      ],
+      "cobblemon:rufflet": [
+        "male"
       ]
     }
   }
