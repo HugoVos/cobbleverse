@@ -24726,15 +24726,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-12-18 23:57:54 +0100"
+    },
+    "done": true
+  },
   "cobblemon:trade_pokemon": {
     "criteria": {
       "trade": "2025-12-19 00:11:01 +0100"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "cobbleverse:trainer/kanto/defeat_erika": {
     "criteria": {
-      "diamond": "2025-12-18 23:57:54 +0100"
+      "leader_defeated": "2025-12-19 01:01:30 +0100"
     },
     "done": true
   },
