@@ -38,6 +38,7 @@
       "minecraft:frozen_peaks": "2025-12-16 12:21:21 +0100",
       "minecraft:old_growth_birch_forest": "2025-12-17 16:16:00 +0100",
       "minecraft:grove": "2025-12-16 12:20:28 +0100",
+      "minecraft:swamp": "2025-12-19 11:56:48 +0100",
       "minecraft:meadow": "2025-12-16 13:32:22 +0100",
       "minecraft:savanna": "2025-12-16 12:17:42 +0100",
       "minecraft:plains": "2025-12-16 12:02:32 +0100"
@@ -24952,6 +24953,12 @@
   "cobblemon:trade_pokemon": {
     "criteria": {
       "trade": "2025-12-19 00:11:01 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_erika": {
+    "criteria": {
+      "leader_defeated": "2025-12-19 11:45:14 +0100"
     },
     "done": true
   },

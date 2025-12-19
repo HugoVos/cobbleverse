@@ -8,14 +8,14 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 72,
+    "totalCaptureCount": 73,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 242,
+    "totalBattleVictoryCount": 246,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 226,
-    "totalPvNBattleVictoryCount": 16,
+    "totalPvWBattleVictoryCount": 229,
+    "totalPvNBattleVictoryCount": 17,
     "totalShinyCaptureCount": 4,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
@@ -23,7 +23,7 @@
       "bug": 4,
       "poison": 5,
       "ghost": 5,
-      "electric": 8,
+      "electric": 9,
       "fairy": 5,
       "steel": 6,
       "grass": 8,
@@ -34,7 +34,7 @@
       "fighting": 6,
       "dark": 4,
       "dragon": 6,
-      "ground": 9,
+      "ground": 10,
       "psychic": 1,
       "ice": 1
     },
@@ -61,7 +61,7 @@
       "cobblemon:rattata": 4,
       "cobblemon:taillow": 5,
       "cobblemon:lechonk": 2,
-      "cobblemon:gimmighoul": 28,
+      "cobblemon:gimmighoul": 30,
       "cobblemon:gloom": 1,
       "cobblemon:snubbull": 5,
       "cobblemon:sentret": 1,
@@ -365,6 +365,9 @@
       ],
       "cobblemon:rufflet": [
         "male"
+      ],
+      "cobblemon:sandyshocks": [
+        "genderless"
       ]
     }
   }
