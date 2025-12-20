@@ -21,6 +21,7 @@
       "minecraft:birch_forest": "2025-12-16 23:00:23 +0100",
       "minecraft:snowy_beach": "2025-12-17 23:36:14 +0100",
       "minecraft:wooded_badlands": "2025-12-18 15:24:55 +0100",
+      "minecraft:bamboo_jungle": "2025-12-21 00:29:40 +0100",
       "minecraft:warm_ocean": "2025-12-16 00:00:01 +0100",
       "minecraft:deep_lukewarm_ocean": "2025-12-16 11:48:57 +0100",
       "minecraft:badlands": "2025-12-18 15:26:33 +0100",
@@ -28,6 +29,7 @@
       "minecraft:savanna_plateau": "2025-12-16 12:35:33 +0100",
       "minecraft:beach": "2025-12-16 11:49:33 +0100",
       "minecraft:dark_forest": "2025-12-17 16:10:35 +0100",
+      "minecraft:stony_peaks": "2025-12-20 23:41:47 +0100",
       "minecraft:mangrove_swamp": "2025-12-18 19:47:40 +0100",
       "minecraft:sparse_jungle": "2025-12-18 15:19:52 +0100",
       "minecraft:river": "2025-12-16 11:41:44 +0100",
@@ -1059,6 +1061,7 @@
       "obtain_lansat_berry": "2025-12-16 15:40:22 +0100",
       "obtain_lum_berry": "2025-12-16 13:44:08 +0100",
       "obtain_coba_berry": "2025-12-16 15:37:49 +0100",
+      "obtain_pinap_berry": "2025-12-21 00:40:24 +0100",
       "obtain_pomeg_berry": "2025-12-16 13:44:07 +0100",
       "obtain_touga_berry": "2025-12-16 15:37:55 +0100",
       "obtain_payapa_berry": "2025-12-16 15:37:50 +0100",
@@ -24980,6 +24983,18 @@
   "cobblemon:cook_snack": {
     "criteria": {
       "cook_snack": "2025-12-20 13:53:53 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/find_keystone": {
+    "criteria": {
+      "obtained_keystone": "2025-12-20 23:57:37 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/find_mega_structure": {
+    "criteria": {
+      "in_mega_structure": "2025-12-20 23:55:11 +0100"
     },
     "done": true
   },
