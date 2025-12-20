@@ -13,6 +13,7 @@
       "minecraft:desert": "2025-12-15 23:14:25 +0100",
       "minecraft:frozen_river": "2025-12-17 23:29:06 +0100",
       "minecraft:windswept_forest": "2025-12-17 23:42:51 +0100",
+      "minecraft:deep_frozen_ocean": "2025-12-20 15:49:16 +0100",
       "minecraft:ocean": "2025-12-16 12:21:42 +0100",
       "minecraft:jungle": "2025-12-16 11:49:42 +0100",
       "minecraft:cherry_grove": "2025-12-16 15:18:48 +0100",
@@ -1075,6 +1076,7 @@
       "obtain_rabuta_berry": "2025-12-16 15:40:24 +0100",
       "obtain_razz_berry": "2025-12-16 15:46:31 +0100",
       "obtain_sitrus_berry": "2025-12-16 15:27:13 +0100",
+      "obtain_nanab_berry": "2025-12-20 12:37:58 +0100",
       "obtain_custap_berry": "2025-12-16 15:46:39 +0100",
       "obtain_liechi_berry": "2025-12-16 15:46:25 +0100",
       "obtain_oran_berry": "2025-12-16 11:35:34 +0100",
@@ -24898,9 +24900,10 @@
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_sherd": "2025-12-17 23:08:49 +0100"
+      "has_sherd": "2025-12-17 23:08:49 +0100",
+      "desert_well": "2025-12-20 15:42:16 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:use_candy": {
     "criteria": {
@@ -24959,6 +24962,24 @@
   "cobbleverse:trainer/kanto/defeat_erika": {
     "criteria": {
       "leader_defeated": "2025-12-19 11:45:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:place_campfire_pot": {
+    "criteria": {
+      "place_pot": "2025-12-20 13:47:13 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/vivichoke_dip": {
+    "criteria": {
+      "has_vivichoke": "2025-12-20 13:48:05 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:cook_snack": {
+    "criteria": {
+      "cook_snack": "2025-12-20 13:53:53 +0100"
     },
     "done": true
   },

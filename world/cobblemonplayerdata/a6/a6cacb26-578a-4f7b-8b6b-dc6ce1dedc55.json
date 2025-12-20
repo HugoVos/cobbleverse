@@ -8,33 +8,33 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 73,
+    "totalCaptureCount": 82,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 246,
+    "totalEvolvedCount": 13,
+    "totalBattleVictoryCount": 263,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 229,
+    "totalPvWBattleVictoryCount": 246,
     "totalPvNBattleVictoryCount": 17,
-    "totalShinyCaptureCount": 4,
+    "totalShinyCaptureCount": 5,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
-      "normal": 14,
-      "bug": 4,
+      "normal": 16,
+      "bug": 5,
       "poison": 5,
       "ghost": 5,
-      "electric": 9,
+      "electric": 12,
       "fairy": 5,
       "steel": 6,
       "grass": 8,
-      "flying": 9,
-      "water": 2,
+      "flying": 11,
+      "water": 5,
       "fire": 9,
       "rock": 2,
       "fighting": 6,
       "dark": 4,
-      "dragon": 6,
-      "ground": 10,
+      "dragon": 7,
+      "ground": 12,
       "psychic": 1,
       "ice": 1
     },
@@ -111,14 +111,23 @@
       "cobblemon:swoobat": 1,
       "cobblemon:starly": 1,
       "cobblemon:charcadet": 1,
-      "cobblemon:pyroar": 1,
+      "cobblemon:pyroar": 2,
       "cobblemon:charjabug": 1,
       "cobblemon:grumpig": 1,
       "cobblemon:espathra": 1,
       "cobblemon:camerupt": 1,
       "cobblemon:helioptile": 1,
       "cobblemon:cufant": 1,
-      "cobblemon:cacturne": 1
+      "cobblemon:cacturne": 1,
+      "cobblemon:arcanine": 1,
+      "cobblemon:drapion": 1,
+      "cobblemon:mrmime": 1,
+      "cobblemon:heatmor": 1,
+      "cobblemon:copperajah": 1,
+      "cobblemon:mightyena": 1,
+      "cobblemon:crustle": 1,
+      "cobblemon:granbull": 1,
+      "cobblemon:throh": 1
     },
     "aspectsCollected": {
       "cobblemon:sentret": [
@@ -361,13 +370,46 @@
         "genderless"
       ],
       "cobblemon:gible": [
-        "male"
+        "male",
+        "female"
       ],
       "cobblemon:rufflet": [
         "male"
       ],
       "cobblemon:sandyshocks": [
         "genderless"
+      ],
+      "cobblemon:braviary": [
+        "male"
+      ],
+      "cobblemon:sceptile": [
+        "male"
+      ],
+      "cobblemon:vikavolt": [
+        "female"
+      ],
+      "cobblemon:squirtle": [
+        "male"
+      ],
+      "cobblemon:heliolisk": [
+        "male"
+      ],
+      "cobblemon:zeraora": [
+        "genderless"
+      ],
+      "cobblemon:magikarp": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:gyarados": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:remoraid": [
+        "shiny",
+        "female"
       ]
     }
   }
