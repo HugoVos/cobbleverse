@@ -8,28 +8,28 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 84,
+    "totalCaptureCount": 86,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 13,
-    "totalBattleVictoryCount": 274,
+    "totalBattleVictoryCount": 288,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 253,
-    "totalPvNBattleVictoryCount": 21,
-    "totalShinyCaptureCount": 5,
+    "totalPvWBattleVictoryCount": 257,
+    "totalPvNBattleVictoryCount": 31,
+    "totalShinyCaptureCount": 6,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "normal": 16,
-      "bug": 5,
+      "bug": 6,
       "poison": 5,
       "ghost": 5,
       "electric": 12,
       "fairy": 5,
       "steel": 6,
       "grass": 8,
-      "flying": 11,
+      "flying": 12,
       "water": 5,
-      "fire": 10,
+      "fire": 11,
       "rock": 2,
       "fighting": 7,
       "dark": 4,
@@ -60,7 +60,7 @@
       "cobblemon:spoink": 3,
       "cobblemon:rattata": 4,
       "cobblemon:taillow": 5,
-      "cobblemon:lechonk": 2,
+      "cobblemon:lechonk": 3,
       "cobblemon:gimmighoul": 30,
       "cobblemon:gloom": 1,
       "cobblemon:snubbull": 5,
@@ -131,7 +131,8 @@
       "cobblemon:clobbopus": 2,
       "cobblemon:watchog": 1,
       "cobblemon:ledian": 1,
-      "cobblemon:aromatisse": 1
+      "cobblemon:aromatisse": 1,
+      "cobblemon:spiritomb": 1
     },
     "aspectsCollected": {
       "cobblemon:sentret": [
@@ -420,6 +421,10 @@
       ],
       "cobblemon:tepig": [
         "male"
+      ],
+      "cobblemon:ledyba": [
+        "shiny",
+        "female"
       ]
     }
   }

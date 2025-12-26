@@ -24886,5 +24886,11 @@
     },
     "done": true
   },
+  "cobbleverse:trainer/kanto/defeat_koga": {
+    "criteria": {
+      "leader_defeated": "2025-12-26 15:37:12 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
