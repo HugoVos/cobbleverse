@@ -40,6 +40,7 @@
       "minecraft:snowy_taiga": "2025-12-17 23:29:02 +0100",
       "minecraft:frozen_peaks": "2025-12-16 12:21:21 +0100",
       "minecraft:old_growth_birch_forest": "2025-12-17 16:16:00 +0100",
+      "minecraft:deep_dark": "2025-12-25 21:22:39 +0100",
       "minecraft:grove": "2025-12-16 12:20:28 +0100",
       "minecraft:swamp": "2025-12-19 11:56:48 +0100",
       "minecraft:meadow": "2025-12-16 13:32:22 +0100",
@@ -10186,6 +10187,7 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "luxury_ball": "2025-12-18 15:11:44 +0100",
+      "ancient_gigaton_ball": "2025-12-25 21:12:43 +0100",
       "nest_ball": "2025-12-17 11:50:13 +0100",
       "quick_ball": "2025-12-17 15:59:07 +0100",
       "great_ball": "2025-12-17 14:04:02 +0100",
@@ -10225,7 +10227,8 @@
       "friend_ball": "2025-12-17 16:43:34 +0100",
       "ancient_roseate_ball": "2025-12-18 16:21:56 +0100",
       "premier_ball": "2025-12-16 13:08:55 +0100",
-      "park_ball": "2025-12-16 12:41:45 +0100"
+      "park_ball": "2025-12-16 12:41:45 +0100",
+      "master_ball": "2025-12-25 22:14:00 +0100"
     },
     "done": false
   },
@@ -24744,17 +24747,18 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
-      "ancient_ivory_ball": "2025-12-17 15:58:28 +0100",
-      "ancient_citrine_ball": "2025-12-16 22:29:57 +0100",
+      "ancient_gigaton_ball": "2025-12-25 21:12:43 +0100",
       "ancient_leaden_ball": "2025-12-18 19:15:01 +0100",
       "ancient_wing_ball": "2025-12-18 20:26:51 +0100",
-      "ancient_slate_ball": "2025-12-16 20:40:24 +0100",
       "ancient_verdant_ball": "2025-12-16 22:10:26 +0100",
       "ancient_feather_ball": "2025-12-16 22:10:24 +0100",
-      "ancient_roseate_ball": "2025-12-18 16:21:56 +0100",
       "ancient_poke_ball": "2025-12-16 22:43:17 +0100",
-      "ancient_ultra_ball": "2025-12-18 16:23:51 +0100",
       "ancient_azure_ball": "2025-12-16 20:40:42 +0100",
+      "ancient_ivory_ball": "2025-12-17 15:58:28 +0100",
+      "ancient_citrine_ball": "2025-12-16 22:29:57 +0100",
+      "ancient_slate_ball": "2025-12-16 20:40:24 +0100",
+      "ancient_roseate_ball": "2025-12-18 16:21:56 +0100",
+      "ancient_ultra_ball": "2025-12-18 16:23:51 +0100",
       "ancient_heavy_ball": "2025-12-16 22:43:11 +0100"
     },
     "done": false
@@ -24986,15 +24990,63 @@
     },
     "done": true
   },
+  "mega_showdown:mega_showdown/mega/find_mega_structure": {
+    "criteria": {
+      "in_mega_structure": "2025-12-20 23:55:11 +0100"
+    },
+    "done": true
+  },
   "mega_showdown:mega_showdown/mega/find_keystone": {
     "criteria": {
       "obtained_keystone": "2025-12-20 23:57:37 +0100"
     },
     "done": true
   },
-  "mega_showdown:mega_showdown/mega/find_mega_structure": {
+  "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
-      "in_mega_structure": "2025-12-20 23:55:11 +0100"
+      "minecraft_trials_edition": "2025-12-25 21:33:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-12-25 21:43:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-12-25 21:44:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-12-25 21:44:44 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/z/get_blank_move": {
+    "criteria": {
+      "obtained_blank_z": "2025-12-25 21:54:36 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/craft_mega_stones": {
+    "criteria": {
+      "mega_stone": "2025-12-25 22:47:51 +0100"
+    },
+    "done": false
+  },
+  "mega_showdown:recipes/misc/aggroniite": {
+    "criteria": {
+      "has_mega_stone": "2025-12-25 22:47:51 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/find_raw_megastone": {
+    "criteria": {
+      "obtained_raw_mega_stones": "2025-12-25 22:47:51 +0100"
     },
     "done": true
   },

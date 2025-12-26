@@ -14,6 +14,7 @@
       "minecraft:forest": "2025-12-16 12:02:43 +0100",
       "minecraft:taiga": "2025-12-16 21:58:06 +0100",
       "minecraft:deep_ocean": "2025-12-17 16:58:47 +0100",
+      "minecraft:lush_caves": "2025-12-25 22:18:35 +0100",
       "minecraft:deep_cold_ocean": "2025-12-18 11:08:05 +0100",
       "minecraft:frozen_ocean": "2025-12-17 22:38:13 +0100",
       "minecraft:desert": "2025-12-16 00:48:36 +0100",
@@ -10057,6 +10058,9 @@
       "love_ball": "2025-12-17 16:18:19 +0100",
       "net_ball": "2025-12-17 15:12:59 +0100",
       "dive_ball": "2025-12-16 23:14:31 +0100",
+      "ancient_great_ball": "2025-12-25 22:45:55 +0100",
+      "ancient_citrine_ball": "2025-12-25 22:44:53 +0100",
+      "ancient_slate_ball": "2025-12-25 22:44:52 +0100",
       "sport_ball": "2025-12-16 20:41:15 +0100",
       "safari_ball": "2025-12-17 16:19:18 +0100",
       "heavy_ball": "2025-12-16 20:41:18 +0100",
@@ -24547,6 +24551,9 @@
   "cobblemon:craft_ancient_balls": {
     "criteria": {
       "ancient_ivory_ball": "2025-12-17 15:43:52 +0100",
+      "ancient_great_ball": "2025-12-25 22:45:55 +0100",
+      "ancient_citrine_ball": "2025-12-25 22:44:53 +0100",
+      "ancient_slate_ball": "2025-12-25 22:44:52 +0100",
       "ancient_verdant_ball": "2025-12-16 12:42:42 +0100",
       "ancient_feather_ball": "2025-12-17 15:43:59 +0100",
       "ancient_roseate_ball": "2025-12-19 12:03:03 +0100",
@@ -24819,6 +24826,63 @@
   "cobblemon:brew_full_restore": {
     "criteria": {
       "check_inv": "2025-12-19 13:21:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-12-25 21:27:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-12-25 22:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-25 22:20:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-25 22:20:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-12-25 22:52:17 +0100",
+      "minecraft:nether_wastes": "2025-12-25 22:32:21 +0100",
+      "minecraft:basalt_deltas": "2025-12-25 22:20:38 +0100",
+      "minecraft:warped_forest": "2025-12-25 22:42:48 +0100"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-12-25 22:32:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-12-25 22:33:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-12-25 22:37:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-12-25 22:41:13 +0100"
     },
     "done": true
   },

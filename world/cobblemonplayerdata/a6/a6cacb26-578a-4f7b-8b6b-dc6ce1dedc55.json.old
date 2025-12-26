@@ -8,14 +8,14 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 83,
+    "totalCaptureCount": 84,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 13,
-    "totalBattleVictoryCount": 266,
+    "totalBattleVictoryCount": 274,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 249,
-    "totalPvNBattleVictoryCount": 17,
+    "totalPvWBattleVictoryCount": 253,
+    "totalPvNBattleVictoryCount": 21,
     "totalShinyCaptureCount": 5,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
@@ -29,7 +29,7 @@
       "grass": 8,
       "flying": 11,
       "water": 5,
-      "fire": 9,
+      "fire": 10,
       "rock": 2,
       "fighting": 7,
       "dark": 4,
@@ -128,7 +128,10 @@
       "cobblemon:crustle": 1,
       "cobblemon:granbull": 1,
       "cobblemon:throh": 1,
-      "cobblemon:clobbopus": 2
+      "cobblemon:clobbopus": 2,
+      "cobblemon:watchog": 1,
+      "cobblemon:ledian": 1,
+      "cobblemon:aromatisse": 1
     },
     "aspectsCollected": {
       "cobblemon:sentret": [
@@ -414,6 +417,9 @@
       ],
       "cobblemon:passimian": [
         "female"
+      ],
+      "cobblemon:tepig": [
+        "male"
       ]
     }
   }
