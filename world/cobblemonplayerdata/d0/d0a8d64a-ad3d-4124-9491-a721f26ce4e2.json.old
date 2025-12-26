@@ -8,19 +8,19 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 32,
+    "totalCaptureCount": 33,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 20,
-    "totalBattleVictoryCount": 153,
+    "totalBattleVictoryCount": 161,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 80,
-    "totalPvNBattleVictoryCount": 73,
+    "totalPvWBattleVictoryCount": 82,
+    "totalPvNBattleVictoryCount": 79,
     "totalShinyCaptureCount": 5,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "water": 3,
-      "ground": 6,
+      "ground": 7,
       "poison": 3,
       "electric": 5,
       "flying": 3,
@@ -74,7 +74,9 @@
       "cobblemon:dachsbun": 1,
       "cobblemon:ironthorns": 1,
       "cobblemon:arboliva": 1,
-      "cobblemon:larvesta": 1
+      "cobblemon:larvesta": 1,
+      "cobblemon:houndoom": 1,
+      "cobblemon:arbok": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -238,6 +240,10 @@
       ],
       "cobblemon:garchomp": [
         "male"
+      ],
+      "cobblemon:cubone": [
+        "male",
+        "region-bias-alola"
       ]
     }
   }

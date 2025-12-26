@@ -24857,10 +24857,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-12-25 22:52:17 +0100",
       "minecraft:nether_wastes": "2025-12-25 22:32:21 +0100",
+      "minecraft:soul_sand_valley": "2025-12-26 20:13:15 +0100",
       "minecraft:basalt_deltas": "2025-12-25 22:20:38 +0100",
       "minecraft:warped_forest": "2025-12-25 22:42:48 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_bastion": {
     "criteria": {
