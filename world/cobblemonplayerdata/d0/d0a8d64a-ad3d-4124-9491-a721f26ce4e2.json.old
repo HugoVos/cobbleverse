@@ -11,11 +11,11 @@
     "totalCaptureCount": 32,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 19,
-    "totalBattleVictoryCount": 140,
+    "totalEvolvedCount": 20,
+    "totalBattleVictoryCount": 153,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 80,
-    "totalPvNBattleVictoryCount": 60,
+    "totalPvNBattleVictoryCount": 73,
     "totalShinyCaptureCount": 5,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
@@ -235,6 +235,9 @@
       ],
       "cobblemon:ceruledge": [
         "female"
+      ],
+      "cobblemon:garchomp": [
+        "male"
       ]
     }
   }
