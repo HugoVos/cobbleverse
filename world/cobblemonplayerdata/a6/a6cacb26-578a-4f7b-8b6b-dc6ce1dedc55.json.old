@@ -12,10 +12,10 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 13,
-    "totalBattleVictoryCount": 288,
+    "totalBattleVictoryCount": 300,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 257,
-    "totalPvNBattleVictoryCount": 31,
+    "totalPvWBattleVictoryCount": 258,
+    "totalPvNBattleVictoryCount": 42,
     "totalShinyCaptureCount": 6,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
@@ -132,7 +132,8 @@
       "cobblemon:watchog": 1,
       "cobblemon:ledian": 1,
       "cobblemon:aromatisse": 1,
-      "cobblemon:spiritomb": 1
+      "cobblemon:spiritomb": 1,
+      "cobblemon:abra": 1
     },
     "aspectsCollected": {
       "cobblemon:sentret": [
